@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/duckInterface/duckInterface.iml" filepath="$PROJECT_DIR$/duckInterface/duckInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duckdependencyinversion/duckdependencyinversion.iml" filepath="$PROJECT_DIR$/duckdependencyinversion/duckdependencyinversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ducksInterface.iml" filepath="$PROJECT_DIR$/ducksInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ducksabstract/ducksabstract.iml" filepath="$PROJECT_DIR$/ducksabstract/ducksabstract.iml" />
+    </modules>
+  </component>
+</project>
